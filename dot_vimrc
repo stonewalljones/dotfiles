@@ -1,0 +1,11 @@
+call plug#begin()
+
+Plug 'vim-airline/vim-airline'
+
+Plug 'preservim/nerdtree'
+
+Plug 'junegunn/fzf.vim'
+
+Plug 'airblade/vim-gitgutter'
+
+call plug#end()
